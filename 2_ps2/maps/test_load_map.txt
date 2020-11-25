@@ -1,0 +1,6 @@
+streatham brixton 20 local
+paddington heathrow 30 mountain
+streatham croydon 15 bridge
+lewisham greenwich 16 local
+paddington oxford 45 interstate
+oxford cambridge 56 interstate
